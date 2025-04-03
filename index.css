@@ -27,7 +27,7 @@ main {
 
 }
 p {
-    text-align: justify;
+    text-align: left;
 }
 .vitad, .vitab1, .vitak2, .vitae, .vitac, .texto {
     margin: 40px;
