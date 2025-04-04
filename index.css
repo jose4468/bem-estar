@@ -6,28 +6,30 @@ body{
     min-width: 300px;
     max-width: 1000px;
     margin: auto;
-    font: normal 20px Arial, verdana, serif;
+    font: normal 100% Arial, verdana, serif;
 
 }
 img {
-    width: 100%;
-    margin-top: 10px;
+    text-align:center ;
+    width:70%;
+    margin-top: 20px;
 }
 img, p {
-    text-align: center;
-  font-size: 20px;
+    margin: 20px;
+  font-size:100%;
+  text-align: center;
 }
 main { 
-       padding: 20px;
+       padding: 15px;
     border-radius: 10px;
-    min-width: 300px;
+    min-width: 400px;
     max-width: 900px;
-    margin: auto;
+    margin:auto ;
     
 
 }
 p {
-    text-align: left;
+    text-align:unset;
 }
 .vitad, .vitab1, .vitak2, .vitae, .vitac, .texto {
     margin: 40px;
@@ -71,5 +73,9 @@ h3 {
 .url {
     text-align: justify;
 }
-
+.url{
+    width: auto;
+}
+ 
+    
 
