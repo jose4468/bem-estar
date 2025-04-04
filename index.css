@@ -15,20 +15,22 @@ img {
     margin-top: 20px;
 }
 img, p {
-    margin: 20px;
-  font-size:100%;
+    margin: 10px;
+  font-size:18px;
   text-align: center;
 }
 main { 
-       padding: 15px;
+   
+    padding: 15px;
     border-radius: 10px;
-    min-width: 400px;
+    min-width: 280px;
     max-width: 900px;
-    margin:auto ;
+    margin:auto;
     
 
 }
 p {
+    font-size:100%;
     text-align:unset;
 }
 .vitad, .vitab1, .vitak2, .vitae, .vitac, .texto {
