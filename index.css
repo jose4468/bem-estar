@@ -21,12 +21,14 @@ img, p {
 }
 main { 
    
-    padding: 15px;
-    border-radius: 10px;
-    min-width: 280px;
-    max-width: 900px;
-    margin:auto;
-    
+ min-width: 300px;
+ max-width: 1000px;
+    margin: auto;
+    margin-bottom: 30px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.418);
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
 
 }
 p {
